@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2270ac2.css",
+    "main.js": "/static/js/main.6df54fff.js",
+    "static/media/Profile.jpg": "/static/media/Profile.36490bf7904a32b88473.jpg",
+    "static/media/BB-financialmockup2.png": "/static/media/BB-financialmockup2.da66ba615e1cd0469274.png",
+    "static/media/Count-downmockup2.png": "/static/media/Count-downmockup2.ea4b9fe01ed4b37b9913.png",
+    "static/media/T-shirt.png": "/static/media/T-shirt.543995e31e5a21bf02af.png",
+    "static/media/Thutokelesedimockup2.png": "/static/media/Thutokelesedimockup2.96208378652d70617d7b.png",
+    "static/media/FoodApp-Mockup.png": "/static/media/FoodApp-Mockup.898254071366dd552182.png",
+    "static/media/Mental-Healthapp-Mockup.png": "/static/media/Mental-Healthapp-Mockup.2ed237b4e0eb161a643a.png",
+    "static/media/CV.pdf": "/static/media/CV.ea89aecd2742534afb29.pdf",
+    "static/media/Chatapp-mockup.png": "/static/media/Chatapp-mockup.ae1f421bcfe381ee160b.png",
+    "index.html": "/index.html",
+    "main.d2270ac2.css.map": "/static/css/main.d2270ac2.css.map",
+    "main.6df54fff.js.map": "/static/js/main.6df54fff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2270ac2.css",
+    "static/js/main.6df54fff.js"
+  ]
+}
