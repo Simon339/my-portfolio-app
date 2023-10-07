@@ -18,7 +18,7 @@ const About = () => {
                     <Info />
 
                     <p className="about_description">
-                        I'm  Malesela Simon Malapane an frontend Developer, Flutter Developer, Cyber Security Enthusiast and Data Scientist. I'm still a student at the current moment but have done few projects to give me an experince and the urge to learn and work as i have made my clients happy with those project that i have carried out.
+                      I am Malesela Simon Malapane, a frontend developer, Flutter developer, cybersecurity enthusiast, and data scientist. I am still a student, but I have done a few projects to give me experience and the urge to learn and work. I have made my clients happy with the projects I have carried out.
                     </p>
 
                     <a download="" href={CV} className="button button--">Download CV

@@ -4,7 +4,7 @@ const Data = () => {
     return (
         <div className="home_data">
             <h1 className="home_title">
-                Malesela
+                Malesela Malapane
                 <svg
                   width="36"
                   height="36"
@@ -55,9 +55,9 @@ const Data = () => {
                   ></path>
                 </svg>
             </h1>
-            <h3 className="home_subtitle">I'm Developer</h3>
+            <h3 className="home_subtitle">I am Fontend Developer and Software developer </h3>
             <p className="home_description">
-                I'm Flutter Developer, AI Enthusiast, Cyber Security Enthusiast, Data Scientist, Fontend Developer and React beginner  based in Katlehong, and I'm very passionate and dedicated to my work for you.
+            I am a Flutter Developer, AI and Cyber Security Enthusiast, Frontend Developer, and React Developer (Beginner) based in Katlehong, and I am passionate and dedicated to my work for you.
             </p>
             <a href="#contact" className="button button--flex">
                 Say Hello
