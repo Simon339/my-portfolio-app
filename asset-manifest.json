@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio-app/static/css/main.4180df9c.css",
-    "main.js": "/my-portfolio-app/static/js/main.16a3b378.js",
+    "main.js": "/my-portfolio-app/static/js/main.86025f73.js",
     "static/media/Profile.jpg": "/my-portfolio-app/static/media/Profile.36490bf7904a32b88473.jpg",
     "static/media/BB-financialmockup2.png": "/my-portfolio-app/static/media/BB-financialmockup2.da66ba615e1cd0469274.png",
     "static/media/Count-downmockup2.png": "/my-portfolio-app/static/media/Count-downmockup2.ea4b9fe01ed4b37b9913.png",
@@ -11,13 +11,13 @@
     "static/media/Mental-Healthapp-Mockup.png": "/my-portfolio-app/static/media/Mental-Healthapp-Mockup.2ed237b4e0eb161a643a.png",
     "static/media/CV.pdf": "/my-portfolio-app/static/media/CV.ea89aecd2742534afb29.pdf",
     "static/media/Chatapp-mockup.png": "/my-portfolio-app/static/media/Chatapp-mockup.ae1f421bcfe381ee160b.png",
-    "static/media/Chartapp.png": "/my-portfolio-app/static/media/Chartapp.9f319dd5f2a6b36e6587.png",
+    "static/media/Chartapp.png": "/my-portfolio-app/static/media/Chartapp.5c12809baf66627f4cf4.png",
     "index.html": "/my-portfolio-app/index.html",
     "main.4180df9c.css.map": "/my-portfolio-app/static/css/main.4180df9c.css.map",
-    "main.16a3b378.js.map": "/my-portfolio-app/static/js/main.16a3b378.js.map"
+    "main.86025f73.js.map": "/my-portfolio-app/static/js/main.86025f73.js.map"
   },
   "entrypoints": [
     "static/css/main.4180df9c.css",
-    "static/js/main.16a3b378.js"
+    "static/js/main.86025f73.js"
   ]
 }
