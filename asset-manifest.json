@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/my-portfolio-app/static/css/main.4180df9c.css",
-    "main.js": "/my-portfolio-app/static/js/main.86025f73.js",
+    "main.css": "/my-portfolio-app/static/css/main.620e03bc.css",
+    "main.js": "/my-portfolio-app/static/js/main.8c1d533a.js",
     "static/media/Profile.jpg": "/my-portfolio-app/static/media/Profile.36490bf7904a32b88473.jpg",
-    "static/media/BB-financialmockup2.png": "/my-portfolio-app/static/media/BB-financialmockup2.da66ba615e1cd0469274.png",
-    "static/media/Count-downmockup2.png": "/my-portfolio-app/static/media/Count-downmockup2.ea4b9fe01ed4b37b9913.png",
     "static/media/T-shirt.png": "/my-portfolio-app/static/media/T-shirt.543995e31e5a21bf02af.png",
     "static/media/Thutokelesedimockup2.png": "/my-portfolio-app/static/media/Thutokelesedimockup2.96208378652d70617d7b.png",
     "static/media/FoodApp-Mockup.png": "/my-portfolio-app/static/media/FoodApp-Mockup.898254071366dd552182.png",
     "static/media/Mental-Healthapp-Mockup.png": "/my-portfolio-app/static/media/Mental-Healthapp-Mockup.2ed237b4e0eb161a643a.png",
     "static/media/CV.pdf": "/my-portfolio-app/static/media/CV.ea89aecd2742534afb29.pdf",
+    "static/media/jarvis-ai.jpg": "/my-portfolio-app/static/media/jarvis-ai.254a448f6644d2b806a5.jpg",
     "static/media/Chatapp-mockup.png": "/my-portfolio-app/static/media/Chatapp-mockup.ae1f421bcfe381ee160b.png",
-    "static/media/Chartapp.png": "/my-portfolio-app/static/media/Chartapp.5c12809baf66627f4cf4.png",
+    "static/media/BB-financialmockup2.png": "/my-portfolio-app/static/media/BB-financialmockup2.1c17538945c06ae01a20.png",
+    "static/media/Student-Res-Mockup.jpg": "/my-portfolio-app/static/media/Student-Res-Mockup.6d5c9fd8b20cf8599ddc.jpg",
+    "static/media/Count-downmockup2.png": "/my-portfolio-app/static/media/Count-downmockup2.f6ddf0821433994b62d7.png",
+    "static/media/ToDo-App.jpg": "/my-portfolio-app/static/media/ToDo-App.f9e253646c0fab5cccb2.jpg",
+    "static/media/Pie-chart-Features.png": "/my-portfolio-app/static/media/Pie-chart-Features.5c12809baf66627f4cf4.png",
+    "static/media/Login-Feature.jpg": "/my-portfolio-app/static/media/Login-Feature.99f093caf19f8b01ce94.jpg",
+    "static/media/Whatsapp-clone.png": "/my-portfolio-app/static/media/Whatsapp-clone.4f5bfa4a20fb39379750.png",
+    "static/media/Jobport.png": "/my-portfolio-app/static/media/Jobport.36244f9ed693458bab33.png",
     "index.html": "/my-portfolio-app/index.html",
-    "main.4180df9c.css.map": "/my-portfolio-app/static/css/main.4180df9c.css.map",
-    "main.86025f73.js.map": "/my-portfolio-app/static/js/main.86025f73.js.map"
+    "main.620e03bc.css.map": "/my-portfolio-app/static/css/main.620e03bc.css.map",
+    "main.8c1d533a.js.map": "/my-portfolio-app/static/js/main.8c1d533a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4180df9c.css",
-    "static/js/main.86025f73.js"
+    "static/css/main.620e03bc.css",
+    "static/js/main.8c1d533a.js"
   ]
 }
