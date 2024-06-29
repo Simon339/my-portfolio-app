@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import "./header.css";
 
 
@@ -17,7 +17,6 @@ const Header = () => {
         <header className="header">
             <nav className="nav container">
                 <a href="index.html" className="nav_logo">
-                    
                     MS Malapane
                 </a>
                 <div className={Toggle ? "nav_menu show-menu" : "nav_menu"}>

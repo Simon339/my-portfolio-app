@@ -5,6 +5,14 @@ import Work4 from "../../assets/work/Mental-Healthapp-Mockup.png";
 import Work5 from "../../assets/work/T-shirt.png";
 import Work6 from "../../assets/work/Thutokelesedimockup2.png";
 import Work7 from "../../assets/work/Count-downmockup2.png";
+import Work8 from "../../assets/work/jarvis-ai.jpg";
+import Work9 from "../../assets/work/Jobport.png";
+import Work10 from "../../assets/work/Whatsapp-clone.png";
+import Work11 from "../../assets/work/Pie-chart-Features.png";
+import Work12 from "../../assets/work/React-ToDo-App.png";
+import Work13 from "../../assets/work/Login-Feature.jpg";
+import Work14 from "../../assets/work/ToDo-App.jpg";
+import Work15 from "../../assets/work/Student-Res-Mockup.jpg";
 
 export const projectsData = [
   {
@@ -49,6 +57,54 @@ export const projectsData = [
       title: "Count down",
       category: "web",
   },
+  {
+    id: 8,
+    image: Work8,
+    title: "JARVIS Ai",
+    category: "aI",
+},
+{
+  id: 9,
+  image: Work9,
+  title: "MICTSETA JobPortal",
+  category: "web",
+},
+{
+  id: 10,
+  image: Work10,
+  title: "WhatsApp Clone UI",
+  category: "app",
+},
+{
+  id: 11,
+  image: Work11,
+  title: "Pie Chart Feature",
+  category: "app",
+},
+{
+  id: 12,
+  image: Work12,
+  title: "React Todo-App",
+  category: "app",
+},
+{
+  id: 13,
+  image: Work13,
+  title: "Login-Feature",
+  category: "app",
+},
+{
+  id: 14,
+  image: Work14,
+  title: "ToDo App",
+  category: "app",
+},
+{
+  id: 15,
+  image: Work15,
+  title: "Student Res",
+  category: "web",
+},
 ];
 
 export const projectsNav = [
@@ -60,6 +116,9 @@ export const projectsNav = [
   },
   {
     name: 'app',
+  },
+  {
+    name: 'aI',
   },
   {
     name: 'design',

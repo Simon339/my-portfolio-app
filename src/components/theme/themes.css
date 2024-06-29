@@ -67,7 +67,7 @@
     place-items: center;
     box-shadow: 0 0 2px hsl(0, 0%, 80%);
     transition: all 0.3s ease;
-    margin-bottom: 2.5%;
+    margin-bottom: 8.5%;
 }
 
 .show-switcher .style_switcher-toggler,

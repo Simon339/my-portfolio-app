@@ -35,7 +35,10 @@ const Footer = () => {
                 </div>
 
                 <span className="footer_copy">
-                    &#169; Simon339. All rights reserved
+                    &copy; 2024 All rights reserved by  
+                    <a href="#" target="_blank" className="footera">
+                        Simon339
+                    </a>
                 </span>
             </div>
         </footer>

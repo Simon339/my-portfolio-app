@@ -23,6 +23,7 @@ export const cv = [
     date: '2020',
     category: 'education',
   },
+  
 
   {
     id: 4,
@@ -37,6 +38,16 @@ export const cv = [
   {
     id: 5,
     title: 'Cognitive Class.ai',
+    subtitle: 'Building Clould Native and Multicloud Applications',
+    date: '2024',
+    description:
+      'IBM CC0150EN',
+    category: 'online certificate',
+  },
+  
+  {
+    id: 6,
+    title: 'Cognitive Class.ai',
     subtitle: 'SQL and Relation Databases 101',
     date: '2023',
     description:
@@ -45,7 +56,7 @@ export const cv = [
   },
 
   {
-    id: 6,
+    id: 7,
     title: 'Cognitive Class.ai',
     subtitle: 'Data Science 101',
     date: '2023',
@@ -55,7 +66,7 @@ export const cv = [
   },
 
   {
-    id: 7,
+    id: 8,
     title: 'Cognitive Class.ai',
     subtitle: 'Data Science Tools',
     date: '2023',
@@ -64,7 +75,7 @@ export const cv = [
     category: 'online certificate',
   },
   {
-    id: 8,
+    id: 9,
     title: 'HUAWEI',
     subtitle: '5G Basics: What its all about',
     date: '2023',
@@ -73,7 +84,7 @@ export const cv = [
     category: 'online certificate',
   },
   {
-    id: 9,
+    id: 10,
     title: 'MTN App of the year & IT Varsity',
     subtitle: 'MTN Business App Academy',
     date: '2022',
