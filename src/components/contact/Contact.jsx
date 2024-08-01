@@ -47,6 +47,7 @@ const  handleSubmit = async (e) => {
         <section className="contact section" id="contact">
             <h2 className="section__title">Get in touch</h2>
             <span className="section__subtitle">Contact Me</span>
+            <h2 className="section__subtitle"> NB: Please Note this form is not working currently </h2>
 
             <div className="contact_container container grid">
                 <div className="contact_content">
@@ -84,7 +85,6 @@ const  handleSubmit = async (e) => {
 
                <div className="contact_content">
                     <h3 className="contact_title">Write to me</h3>
-                   <h2> NB: Please Note this form is not working currently </h2>
 
                     <form className="contact_form" onSubmit={handleSubmit}>
                         
