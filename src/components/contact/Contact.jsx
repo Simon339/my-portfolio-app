@@ -82,8 +82,9 @@ const  handleSubmit = async (e) => {
                     </div>
                 </div>
 
-                <div className="contact_content">
+               <div className="contact_content">
                     <h3 className="contact_title">Write to me</h3>
+                   <h2> NB: Please Note this form is not working currently </h2>
 
                     <form className="contact_form" onSubmit={handleSubmit}>
                         
